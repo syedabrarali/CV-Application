@@ -10,7 +10,7 @@ export default function ExperienceForm() {
                 Write your job role and responsibilities here...
             </textarea><br/>
             <label htmlFor="companystartDate">Start Date:</label>
-            <input className="ml-2" type="date" id="companystartDate" name="companyStartDate"/><br/>
+            <input className="ml-1" type="date" id="companystartDate" name="companyStartDate"/><br/>
             <label htmlFor="companyendDate">End Date:</label>
             <input className="ml-2" type="date" id="companyendDate" name="companyEndDate"/><br/>
         </>
